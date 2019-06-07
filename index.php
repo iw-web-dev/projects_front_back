@@ -20,7 +20,7 @@
         array_push($clients,$row_array);  
     } 
 
-    echo '<div class="info">Текст2</div>';
+    echo '<div class="info">Текст3</div>';
     
     echo '<table><thead><tr><th>Имя</th><th>Телефон</th></tr></thead><tbody>';
     foreach($clients as $client){
